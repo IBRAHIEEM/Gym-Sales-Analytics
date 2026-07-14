@@ -1,5 +1,5 @@
-# Gym-Sales-Analytics  
-# 💪 Fitness Sales Analytics Dashboard
+#  💪 Gym-Sales-Analytics  
+
 
 An interactive **Power BI** dashboard developed to analyze the sales performance of a fitness products company. The dashboard provides business insights through interactive visualizations, helping decision-makers monitor performance, identify trends, and support data-driven decisions.
 
